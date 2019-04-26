@@ -14,7 +14,7 @@ $(document).ready(function () {
         question: "Which famous designer is best known for their signature high heel with red soles ?",
         answer: ["Christian Dior", "Christian Louboutin", "Alexander McQueen", "Yves Saint Laurent"],
         correct: "1",
-        image: "triviaGame/assets/images/louboutin.gif"
+        image: "assets/images/louboutin.gif"
     }, {
         question: "Medusa is the logo of which fashion company?",
         answer: ["Dolce & Gabbana", "Versace", "Givenchy", "Fendi"],

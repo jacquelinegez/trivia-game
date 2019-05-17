@@ -72,7 +72,7 @@ function loadQandA() {
             correctAnswer();
         } else {
             answered = true; 
-            $('.question').text("You chose: " + triviaGame[indexQandA].answer[id] + " But the correct answer is: " + triviaGame[indexQandA].answer[correct]);
+            $('.question').text( "The correct answer is: " + triviaGame[indexQandA].answer[correct]);
             incorrectAnswer();
         }
     });
